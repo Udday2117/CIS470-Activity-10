@@ -1,6 +1,6 @@
 const express = require('express');
 const serverless = require('serverless-http');
-const apiEndpoint = '/default/CIS470-Activity-8';
+const apiEndpoint = '/default/CIS470Activity-8';
 
 const app = express();
 
